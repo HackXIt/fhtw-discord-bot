@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "fhtw-discord-bot"
+version = "0.0.1"
+description = "A discord bot specifically for managing my student servers @fhtw"
+authors = ["HackXIt <hackxit@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<4"
+"discord.py" = "^2.4.0"
+psycopg2 = "^2.9.9"
+
+[tool.poetry.group.dev.dependencies]
+invoke = "^2.2.0"
+mypy = "^1.10.1"
+ruff = "^0.5.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
