@@ -1,0 +1,34 @@
+# Roadmap
+
+  - [ ] Automated On-boarding process
+    - [ ] User registration interaction
+    - [ ] Mail verification
+    - [ ] Student information scraping (i.e. study program, student group, etc.)
+    - [ ] Role assignment
+  - [ ] Student tools
+    - [ ] Pin messages via reactions
+    - [ ] Send mails to a group of students by discord user ID
+    - [ ] Create custom project groups
+    - [ ] Setup custom reminders
+    - [ ] Delete my data
+  - [ ] Student information
+    - [ ] News by faculty re-directed from official mail (or via forwarding rules by the bot owner)
+    - [ ] Moodle integrations (i.e. upcoming deadlines, grades, etc.)
+  - [ ] Fun & Games
+    - [ ] Activity tracking (i.e. XP system)
+    - [ ] Student-of-the-month
+    - [ ] Reward system (i.e. gratitude by other students)
+  - [ ] Database
+    - [ ] Store student registration (i.e. mail, study program, student group, discord user ID etc.)
+    - [ ] Store custom group information
+  - [ ] Administrative tools
+    - [ ] Mass Role management
+      - [ ] Create student roles
+      - [ ] Assign student roles to channels and categories
+      - [ ] Set student role permissions via web interface
+    - [ ] Mailing service
+      - [ ] Send administrative mails to students (i.e. server maintenance, kick/ban notifications, etc.)
+      - [ ] Privacy policy
+    - [ ] Server management
+      - [ ] Server statistics (i.e. user count, role count, etc.)
+      - [ ] Health check (i.e. ping, uptime, etc.)
