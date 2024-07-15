@@ -22,7 +22,7 @@
         },
         {
             "path": "../fhtw-api",
-            "name": "FHTW Web API"
+            "name": "FHTW Web API/App"
         }
     ],
     "settings": {
