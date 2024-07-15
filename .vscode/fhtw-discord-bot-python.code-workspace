@@ -1,0 +1,50 @@
+{
+    "folders": [
+        {
+            "path": "..",
+            "name": "ROOT"
+        },
+        {
+            "path": "../fhtw-bot",
+            "name": "FHTW Discord Bot"
+        },
+        {
+            "path": "../fhtw-scraper",
+            "name": "FHTW CIS Scraper"
+        },
+        {
+            "path": "../fhtw-db",
+            "name": "FHTW Database"
+        },
+        {
+            "path": "../fhtw-mail",
+            "name": "FHTW MailService"
+        },
+        {
+            "path": "../fhtw-api",
+            "name": "FHTW Web API"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            ".vscode/.history": true,
+            "fhtw-bot": true,
+            "fhtw-scraper": true,
+            "fhtw-db": true,
+            "fhtw-mail": true,
+            "fhtw-api": true
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-ossdata.vscode-postgresql",
+            "ms-python.python"
+        ]
+    }
+}
